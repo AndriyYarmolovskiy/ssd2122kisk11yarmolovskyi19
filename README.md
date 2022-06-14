@@ -3,14 +3,14 @@ Name of repo: ssd2122kisk11yarmolovskyi19
 # Task Details
 
   # Tasks:
-  1. Eachprogrammingtaskrequiresusingatleastonenewpattern.
-  2. Codeshouldbewellcommented(methoddescriptions,hardreadingandbig
+  1. Each programming task requires using at least one new pattern.
+  2. Code should be well commented(method descriptions,hard reading and big
   code...).
-  3. Thereshouldnotbedeadcode.
-  4. Allentitiesshouldhavemeaningfulnames.
+  3. There should not be dead code.
+  4. All entities should have meaningful names.
   
   # Tool requirements
-  1. Commandlinewithinputparameters
+  1. Command line with input parameters
     a. -sf,--seqfile-SFlocation
     b. -s,--sequencesequencewhenfilenotprovided
     c. -n, --number - sequence element number
